@@ -37,4 +37,4 @@
 ## ĐỒ ÁN BÁO CÁO
 * **Tên chủ đề:** Vehicle detection and counting
 * **Link Project:** https://github.com/npq-thien/Vehicle_Detection_and_Counting_System/tree/main
-
+* **Link dataset:** https://drive.google.com/drive/folders/1gtym6xZNZVa8rD9UZfhkoQgMUHAScJ4x?usp=sharing
